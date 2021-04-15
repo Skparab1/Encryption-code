@@ -15,4 +15,4 @@ Encryption code has multiple versions:
     > Paid Version of Encryption code
     > Not released yet
     > Learn more at https://sites.google.com/view/encryptioncode/encryption-code-pro
-    
+* NOTE: To protect the security of Encryption code, all current Encryption codes have been obfuscated.
