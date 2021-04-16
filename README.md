@@ -1,7 +1,7 @@
 # Encryption-code
 Python code that Encrypts text
 Encryption code has multiple versions:
- - Encryption code main
+ - Encryption code
     > Main Encryption code Program always getting updates
     > 11 versions released so far, started at Encryption code 1.1.1 now at Encryption code 2.1
     > Has features such as animations, and memory
