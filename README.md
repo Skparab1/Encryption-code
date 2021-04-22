@@ -12,7 +12,7 @@ Encryption code has multiple versions:
     - Automatically detects wether to encrypt or decrypt text.
     - Learn more at https://sites.google.com/view/encryptioncode/encryption-code-beta-2-0
  - Encryption code Pro
-    > Paid Version of Encryption code
-    > Not released yet
-    > Learn more at https://sites.google.com/view/encryptioncode/encryption-code-pro
+    - Paid Version of Encryption code
+    - Not released yet
+    - Learn more at https://sites.google.com/view/encryptioncode/encryption-code-pro
 * NOTE: To protect the security of Encryption code, all current Encryption codes have been obfuscated.
