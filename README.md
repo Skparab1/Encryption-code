@@ -4,6 +4,7 @@ Encryption code has multiple versions:
  - Encryption code
     - Main Encryption code Program always getting updates
     - 11 versions released so far, started at Encryption code 1.1.1 now at Encryption code 2.1
+    - Encryption code 2.2 planned to be released early june
     - Has features such as animations, and memory
     - Learn more at https://sites.google.com/view/encryptioncode
  - Encryption code beta 
