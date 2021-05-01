@@ -1,9 +1,6 @@
 import time
 
-'''    
-Hi fishy stop watching why do you watch all day you should do something else more productive. did you know that you wasted 3 bike patches in total?? wow what a waster. You wasted 2 bike patches on fatty and 1 bike patch on "smarty" Also stop breaking super hard and making your back wheel slide on the ground. first of all, it leaves icky black marks all over the backyard, and secondly, it sill ruin your tire and make it as smooth as fatty's anyways too bad, see ya later    Message Password: catfish
-7H9$69o8g$opty$d1p389r7$d8g$4t$gta$d1p38$1ww$41g$gta$o8taw4$4t$ote5p89r7$5wo5$eti5$yit4a3p9s5`$494$gta$qrtd$p81p$gta$d1op54$z$29q5$y1p385o$9r$ptp1w!!$dtd$d81p$1$d1op5i`$Yta$d1op54$l$29q5$y1p385o$tr$61ppg$1r4$k$29q5$y1p38$tr$"oe1ipg"$Awot$opty$2i51q9r7$oay5i$81i4$1r4$e1q9r7$gtai$213q$d855w$ow945$tr$p85$7itar4`$69iop$t6$1ww#$9p$w51s5o$93qg$2w13q$e1iqo$1ww$ts5i$p85$213qg1i4#$1r4$o53tr4wg#$9p$o9ww$ia9r$gtai$p9i5$1r4$e1q5$9p$1o$oettp8$1o$61ppg%o$1rgd1go$ptt$214#$o55$g1$w1p5i´osgnmjt   Password: catfish
-
+'''
 text: bunny  password: catfish
 Encrypted text: 8∑≈ƒƒ˜˛osgnmjt 
 
