@@ -10,7 +10,7 @@ Encryption code has multiple versions:
  - Encryption code beta 
     - Simpler version of Encryption code without features, only Encryption and Decryption
     - 2 versions released so far, Encryption code beta, and Encryption code beta 2.0
-    - Automatically detects wether to encrypt or decrypt text.
+    - Automatically detects whether to encrypt or decrypt text.
     - Learn more at https://sites.google.com/view/encryptioncode/encryption-code-beta-2-0
  - Encryption code Pro
     - Paid Version of Encryption code
