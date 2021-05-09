@@ -1,0 +1,6 @@
+#This is just an idea
+A version of Encryption code that will encrypt by compressing text. it will do this by assigning a character to a set of two letters.
+For example, it could assign # for the letter combination ab. Each set of 2 a-z letters will have a character for it. 
+that would need a combination of every letter a-z and a space, so I would need 27^2 characters to represent each combination, so I will need 729 characters. That'a a lot, but there are enough characters.
+this will reduce the amount of letters in the text by half, reducing the data taken by the text. It will also encrypt it at the same time
+However, this will only work for a-z letters, for other characters like numbers, it would need more characters to represent the new character sets.
