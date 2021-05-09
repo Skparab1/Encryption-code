@@ -16,4 +16,10 @@ Encryption code has multiple versions:
     - Paid Version of Encryption code
     - Not released yet
     - Learn more at https://sites.google.com/view/encryptioncode/encryption-code-pro
+#Coming soon:
+- Encryption code 2.2
+ - the next version of Encryption code
+- Encryption code Pro
+- Encryption code Compressor
+ - Version of Encryption code that will Encrypt and lower the letters taken by a message.
 * NOTE: To protect the security of Encryption code, all current Encryption codes have been obfuscated.
