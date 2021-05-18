@@ -1,0 +1,4 @@
+# This is just an idea:
+Encryption code could convert the text to a series of bits: 0s and 1s
+this could be done by assigning each character a unique 5 digit combination of 0s and 1s. 
+there could be 2^5 = 32 combinatiosn possible, so 32 characters could be represented.
