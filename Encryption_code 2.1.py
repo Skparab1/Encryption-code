@@ -1,6 +1,7 @@
 import time, socket, shelve, subprocess, string, random, datetime
 from random import randint
 from datetime import date, datetime
+
 K4B0oOv001 = 000
 def K4B0oOv038(K4B0oOv036):
     K4B0oOv039 = len(K4B0oOv036)
@@ -16,6 +17,7 @@ def K4B0oOv038(K4B0oOv036):
                 break
     except:
         K4B0oOv019 = ''
+
 def K4B0oOv008(K4B0oOv005):
     K4B0oOv004, K4B0oOv003 = 0, ''
     while K4B0oOv004 < El4Re8W005(K4B0oOv005) :
@@ -26,6 +28,7 @@ def K4B0oOv008(K4B0oOv005):
         K4B0oOv004 += 1
     K4B0oOv007()
     return K4B0oOv003
+
 def El4Re8W005(K4B0oOv013):
     K4B0oOv013 = K4B0oOv013 + '∞'
     K4B0oOv004 = 0
@@ -35,6 +38,7 @@ def El4Re8W005(K4B0oOv013):
         K4B0oOv004 += 1
     K4B0oOv004 = K4B0oOv004 - 1
     return K4B0oOv004
+
 def K4B0oOv010(K4B0oOv005):
     K4B0oOv004, K4B0oOv003 = 0, ''
     while K4B0oOv004 < El4Re8W005(K4B0oOv005) :
@@ -45,6 +49,7 @@ def K4B0oOv010(K4B0oOv005):
         K4B0oOv004 += 1
     K4B0oOv007()
     return K4B0oOv003
+
 def K4B0oOv014(K4B0oOv015="8.8.8.8", K4B0oOv016=53, K4B0oOv017=3):
     try:
         socket.setdefaulttimeout(K4B0oOv017)
@@ -53,6 +58,7 @@ def K4B0oOv014(K4B0oOv015="8.8.8.8", K4B0oOv016=53, K4B0oOv017=3):
     except socket.error as K4B0oOv018:
         K4B0oOv019 = K4B0oOv018
         return 'internet connection offline'
+
 def K4B0oOv011(K4B0oOv003):
     K4B0oOv004, K4B0oOv005 = 0, ""
     while K4B0oOv004 < El4Re8W005(K4B0oOv003):
@@ -62,6 +68,7 @@ def K4B0oOv011(K4B0oOv003):
         K4B0oOv005, K4B0oOv004 = K4B0oOv005 + eK4B0oOv006, K4B0oOv004 + 1 
     K4B0oOv007()
     return K4B0oOv005
+
 def K4B0oOv012(K4B0oOv005):
     K4B0oOv004, K4B0oOv003 = 0, ''
     while K4B0oOv004 < El4Re8W005(K4B0oOv005) :
@@ -72,8 +79,10 @@ def K4B0oOv012(K4B0oOv005):
         K4B0oOv004 += 1
     K4B0oOv007()
     return K4B0oOv003
+
 def K4B0oOv069(K4B0oOv070):
     print(K4B0oOv070[::-1])
+
 def K4B0oOv002(K4B0oOv003):
     K4B0oOv004, K4B0oOv005 = 0, ""
     while K4B0oOv004 < El4Re8W005(K4B0oOv003):
@@ -83,13 +92,17 @@ def K4B0oOv002(K4B0oOv003):
         K4B0oOv005, K4B0oOv004 = K4B0oOv005 + eK4B0oOv006, K4B0oOv004 + 1 
     K4B0oOv007()
     return K4B0oOv005
+
 def K4B0oOv074(K4B0oOv072):
     print(K4B0oOv072[::-1], end = '')
+    
 def K4B0oOv075(K4B0oOv077):
     K4B0oOv076 = input(K4B0oOv077)
     return K4B0oOv076
+
 def K4B0oOv007(): 
     K4B0oOv071('\n' * 50)
+
 def El4Re8W005(K4B0oOv013):
     K4B0oOv013 = K4B0oOv013 + '∞'
     K4B0oOv004 = 0
@@ -99,10 +112,13 @@ def El4Re8W005(K4B0oOv013):
         K4B0oOv004 += 1
     K4B0oOv004 = K4B0oOv004 - 1
     return K4B0oOv004
+
 def K4B0oOv071(K4B0oOv072):
     print(K4B0oOv072)
+
 def K4B0oOv020():
      K4B0oOv071('\n\n\n\n\n\n\n\n  __________    __________    __________    __________    __________    __________    __________'),K4B0oOv071(' /          \  /          \  /  Privacy \  /          \  /          \  /  About   \  /          \ '),K4B0oOv071('/   Encrypt  \/   Decrypt  \/   policy   \/ Contact us \/   Memory   \/  This code \/  Settings  \ '), K4B0oOv025(0.07)
+
 def K4B0oOv051():
     from datetime import date
     from datetime import datetime
@@ -115,8 +131,10 @@ def K4B0oOv051():
     K4B0oOv007()
     K4B0oOv071('   ' + K4B0oOv024 + '    ' + K4B0oOv022 + '    ' + K4B0oOv037)
     K4B0oOv020()
+
 def K4B0oOv025(K4B0oOv026):
     time.sleep(K4B0oOv026)
+    
 try:
     K4B0oOv027 = shelve.open('K4B0oOv078.txt')
     K4B0oOv019 = K4B0oOv027['K4B0oOv078']
@@ -125,8 +143,10 @@ except:
     K4B0oOv028 = shelve.open('K4B0oOv078.txt')   
     K4B0oOv028['K4B0oOv078'] = 'u'       
     K4B0oOv028.close()
+
 def K4B0oOv073():
     input()
+
 def K4B0oOv009(K4B0oOv003):
     K4B0oOv004, K4B0oOv005 = 0, ""
     while K4B0oOv004 < El4Re8W005(K4B0oOv003):
@@ -136,6 +156,7 @@ def K4B0oOv009(K4B0oOv003):
         K4B0oOv005, K4B0oOv004 = K4B0oOv005 + eK4B0oOv006, K4B0oOv004 + 1 
     K4B0oOv007()
     return K4B0oOv005
+
 def K4B0oOv029(K4B0oOv030,K4B0oOv031):
     if K4B0oOv031 == '1':
         K4B0oOv0301 = K4B0oOv008(K4B0oOv030)
@@ -146,8 +167,10 @@ def K4B0oOv029(K4B0oOv030,K4B0oOv031):
     K4B0oOv032(K4B0oOv030,K4B0oOv0301)
     K4B0oOv007()
     K4B0oOv071('The Decrypted text is the following: '+K4B0oOv0301), K4B0oOv073()
+
 K4B0oOv033 = 'start'
 K4B0oOv034,K4B0oOv035, = 'on','ask'
+
 def K4B0oOv032(K4B0oOv036, K4B0oOv041):
     K4B0oOv042 = len(K4B0oOv036)
     K4B0oOv043, K4B0oOv044, K4B0oOv045, K4B0oOv046 , K4B0oOv047 = (0.09 if K4B0oOv042 <= 10 else (0.07 if K4B0oOv042 <= 20 else (0.05 if K4B0oOv042 <= 35 else (0.04 if K4B0oOv042 <= 50 else (0.03 if K4B0oOv042 <= 75 else (0.02)))))), 0, int(round(K4B0oOv042/2,0)), 0, 0
@@ -165,7 +188,9 @@ def K4B0oOv032(K4B0oOv036, K4B0oOv041):
     while K4B0oOv047 <= 7:
         K4B0oOv007(),K4B0oOv071(K4B0oOv041+'\nYour Encrypted text is being generated'+'.'*K4B0oOv047), K4B0oOv025(0.07)
         K4B0oOv047 += 1
+
 K4B0oOv050 = False
+
 while K4B0oOv033 != 'q':
     try:
         if K4B0oOv050 == False:
@@ -296,12 +321,12 @@ while K4B0oOv033 != 'q':
                     K4B0oOv063 = (K4B0oOv008(K4B0oOv008(K4B0oOv061)))
                 K4B0oOv001 = 408
                 try:
-                    K4B0oOv027 = shelve.open('K4B0oOv080.txt')
-                    K4B0oOv064 = K4B0oOv027['K4B0oOv080']
+                    K4B0oOv027 = shelve.open('K4B0oOv088.txt')
+                    K4B0oOv064 = K4B0oOv027['K4B0oOv088']
                     K4B0oOv027.close()
                 except:
-                    K4B0oOv028 = shelve.open('K4B0oOv080.txt')   
-                    K4B0oOv028['K4B0oOv080'] = ' '       
+                    K4B0oOv028 = shelve.open('K4B0oOv088.txt')   
+                    K4B0oOv028['K4B0oOv088'] = ' '       
                     K4B0oOv028.close()
                 K4B0oOv030 = K4B0oOv030.replace(K4B0oOv061,'')
                 if '˛' in K4B0oOv030:
