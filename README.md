@@ -3,9 +3,8 @@ Python code that Encrypts text
 Encryption code has multiple versions:
  - Encryption code
     - Main Encryption code Program always getting updates
-    - 11 versions released so far, started at Encryption code 1.1.1 now at Encryption code 2.1
-    - Encryption code 2.2 planned to be released early June
-    - Has features such as animations, and memory
+    - 12 versions released so far, started at Encryption code 1.1.1 now at Encryption code 2.2
+    - Encryption code 2.3 planned to be released mid october
     - Learn more at https://sites.google.com/view/encryptioncode
  - Encryption code beta 
     - Simpler version of Encryption code without features, only Encryption and Decryption
@@ -17,7 +16,7 @@ Encryption code has multiple versions:
     - Not released yet
     - Learn more at https://sites.google.com/view/encryptioncode/encryption-code-pro
 #Coming soon:
-- Encryption code 2.2
+- Encryption code 2.3
  - the next version of Encryption code
 - Encryption code Pro
 - Encryption code Compressor
