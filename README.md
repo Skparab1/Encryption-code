@@ -13,7 +13,7 @@
 
 - Encryption code Stats
 
-![](Encryption_code_encryption_speed.png)
+![](fast_encryption.png)
 
 Through the use of Innovative and Efficient algorithms, along with faster processing, Encryption code is faster than ever.
 
