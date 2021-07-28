@@ -13,6 +13,7 @@
 
 - Encryption code Stats
 
+![](Encryption_code_encryption_speed.png)
 
 
 
