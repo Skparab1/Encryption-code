@@ -15,7 +15,7 @@
 
 ![](Encryption_code_encryption_speed.png)
 
-
+Through the use of Innovative and Efficient algorithms, along with faster processing, Encryption code is faster than ever.
 
 - **Top Features: Encryption code 2.2**
     - Encryption code accounts: Encryption code users can now make local accounts with Encryption code, so that they can keep their data safe and access it from anywhere (coming soon!)
